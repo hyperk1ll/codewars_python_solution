@@ -1,4 +1,4 @@
-# Convert number to reversed array of digits
+# Convert number to reversed array of digits 
 
 def digitize(n):
     return [int(x) for x in str(n)][::-1]
