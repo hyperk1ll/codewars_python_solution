@@ -1,4 +1,4 @@
-# ASCII Shift Encryption/Decryption
+# ASCII Shift Encryption/Decryption 
 
 def ascii_encrypt(plaintext):
     encrypted = ""
