@@ -1,4 +1,4 @@
-# Maximum subarray sum
+# Maximum subarray sum 
 
 def max_sequence(arr):
     if len(arr) == 0:
